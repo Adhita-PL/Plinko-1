@@ -1,2 +1,1 @@
-#Plinko with scores
-Adhita PL
+#Plinko 
